@@ -162,3 +162,8 @@ Video css
         overflow: hidden;
     }
 }
+
+footer{
+    height: 70px;
+    background-color: #4e555b;
+}
